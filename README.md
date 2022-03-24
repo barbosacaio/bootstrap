@@ -7,5 +7,5 @@
 <br><h3>Mídias Preview</h3>
 <img alt="MidiasPreview" src="images/midias_preview.png">
 <br><h3>Form</h3>
-<img alt="FormPreview" src="images/form_preview.png>
+<img alt="FormPreview" src="images/form_preview.png">
 <br>
